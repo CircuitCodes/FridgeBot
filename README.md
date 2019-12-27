@@ -16,7 +16,7 @@ Boy if you don't stop with these stupid questions/
 Sure you can, just don't 1:1 copy modules.
 
 ## Here comes the legalese....
-By using the Fridge source code, you agree to the [LICENSE](https://github.com/CircuitCodes/FridgeBot/blob/master/README.md) and the following terms. By ignoring or failing these terms, you are in breach of the GNU GPL.
+By using the Fridge source code, you agree to the [LICENSE](https://github.com/CircuitCodes/FridgeBot/blob/master/LICENSE) and the following terms. By ignoring or failing these terms, you are in breach of the software license.
 
 When hosting a self hosted version of Fridge, you agree that:
 
