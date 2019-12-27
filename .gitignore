@@ -9,6 +9,9 @@
 # Log file
 *.log
 
+# IntelliJ Configuration
+.idea/
+
 # BlueJ files
 *.ctxt
 
